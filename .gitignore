@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# Azure Functions
+bin/
+obj/
+.python_packages/
+local.settings.json
+
+# Editor
+.vscode/
+.idea/
